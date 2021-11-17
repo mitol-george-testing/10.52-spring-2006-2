@@ -1,0 +1,27 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "60b08945-4891-41b1-d23e-2511bddd7952"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Mechanics of Fluids",
+  "course_description": "This course is an advanced subject in fluid and continuum mechanics. The course content includes kinematics, macroscopic balances for linear and angular momentum, stress tensors, creeping flows and the lubrication approximation, the boundary layer approximation, linear stability theory, and some simple turbulent flows.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.52",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
